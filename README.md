@@ -1,5 +1,7 @@
 # PercentCalculator - Java (Android SDK)
 
+This app was coded on Android Studio using the Android Java SDK.8U73, and was shared on Github using the VCS option.
+
 The purpose of this simple Android app is to calculate percentages of numbers, it is an app that I made for fun, which also provided with me with a fundamental understanding of Java. It is also published on the Play Store (link to app below).
 
 https://play.google.com/store/apps/details?id=com.aryan.PercentCalculator
